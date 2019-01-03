@@ -1,0 +1,7 @@
+cara jalankan di cmd
+
+cd nodejs-private-webchat
+npm install
+node app.js
+
+buka localhost:8080
